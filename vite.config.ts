@@ -7,4 +7,5 @@ export default defineConfig({
   build: {
     outDir: 'build',
   },
+  "base": "https://tojzke.github.io/sandbox/",
 })
